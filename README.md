@@ -1,2 +1,10 @@
-﻿# ML practice
-“My self-study journey to become an ML engineer” and a list of what you’ll practice
+﻿   # ML practice
+
+   My self-study journey to become an ML engineer.
+
+   ## What I'll practice
+   - Python
+   - Math (linear algebra, calculus, probability)
+   - SQL
+   - Machine learning basics
+   
